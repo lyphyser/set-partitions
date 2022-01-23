@@ -1,0 +1,15 @@
+[package]
+name = "set-partitions"
+version = "1.0.1"
+authors = ["Lyphyser <lyphyser@gmail.com>"]
+license = "MIT/Apache-2.0"
+description = "Represent and enumerate set partitions"
+homepage = "https://github.com/lyphyser/set-partitions"
+repository = "https://github.com/lyphyser/set-partitions"
+keywords = ["math", "mathematics", "combinatorics", "data-structure", "data-structures"]
+categories = ["algorithms"]
+edition = "2021"
+
+[dependencies]
+"num-traits" = "0.2.14"
+"arrayvec" = "0.7.2"
